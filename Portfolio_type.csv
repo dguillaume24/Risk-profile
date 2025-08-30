@@ -1,0 +1,6 @@
+type_name,average_annual_return,best_year,worst_year,investor_type,large_cap_equity,small_cap_equity,international_equity,fixed_income,cash_investments
+Agressive,10.3,39.9,-36.0,"For long-term investors who want high growth potential and don’t need current income. May entail substantial year-to-year volatility in value in exchange for potentially high long-term returns.",50,20,25,0,5
+Conservative,7.4,22.8,-4.6,"For investors who seek current income and stability and are less concerned about growth.",15,0,5,50,30
+Moderate,9.5,30.9,-20.9,"For long-term investors who don’t need current income and want some growth potential. Likely to entail some fluctuations in value, but presents less volatility than the overall equity market.",35,10,15,35,5
+"Moderately agressive",10.0,34.4,-29.5,"For long-term investors who want good growth potential and don’t need current income. Entails a fair amount of volatility, but not as much as a portfolio invested exclusively in equities.",45,15,20,15,5
+"Moderately conservative",8.7,27.0,-12.5,"For investors who seek current income and stability, with modest potential for increase in the value of their investments.",25,5,10,50,10
