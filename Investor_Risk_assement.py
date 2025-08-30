@@ -10,7 +10,7 @@ import streamlit as st
 # ----------------------------
 # Config & constants
 # ----------------------------
-st.set_page_config(page_title="Investment Portfolio", layout="wide")
+st.set_page_config(page_title="Risk profile", layout="wide")
 
 DATA_DIR = Path(".")
 QUESTION_7_CSV = DATA_DIR / "question_7.csv"
@@ -277,7 +277,7 @@ def show_portfolio(time_horizon_score: int, risk_tolerance_score: int) -> None:
 # App
 # ----------------------------
 def main() -> None:
-    st.title("Investment Portfolio")
+    st.title("Risk profile assessment")
     st.write("# Investor profile questionnaire")
 
     st.markdown(
